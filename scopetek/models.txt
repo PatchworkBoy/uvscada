@@ -18,5 +18,7 @@ Vendor ID		Product ID		Models																Other
 
 Candidates
 Vendor ID		Product ID		Models																Other
-0x0547			0x92A0			MT1000 (jeff)														VID match, but not sure if correct driver
+0x0547			0x92A0			MT1000 (jeff)
+0x0547			0xE014			Opticstar PL131M Mono Micron MT9C001 1/2" CMOS monochrome sensor (no IR filter)
+		VID match, but not sure if correct driver
 
